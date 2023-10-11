@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GroSoft/Servicios/issues"
   },
-  "homepage": "https://github.com/GroSoft/Servicios/tree/servicios#readme"
+  "homepage": "https://github.com/GroSoft/Servicios/tree/servicios#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
