@@ -1,0 +1,19 @@
+{
+  "name": "groserv_serv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GroSoft/Servicios.git#servicios"
+  },
+  "author": "LSCA Oscar Iván Gavidia Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GroSoft/Servicios/issues"
+  },
+  "homepage": "https://github.com/GroSoft/Servicios/tree/servicios#readme"
+}
